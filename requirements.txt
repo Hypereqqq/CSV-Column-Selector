@@ -1,0 +1,7 @@
+# CSV Column Selector Requirements
+pandas>=1.5.0
+# Note: tkinter is usually included with Python installation
+# If tkinter is not available, install it via system package manager:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# CentOS/RHEL: sudo yum install tkinter
+# macOS: tkinter should be included with Python from python.org
